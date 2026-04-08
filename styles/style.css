@@ -83,10 +83,6 @@
     content: '';
 }
 
-.content-section {
-    font-weight: 400;
-}
-
 .overlay {
     z-index: 1;
     width: 100%;
@@ -153,12 +149,8 @@
 .lots {
     display: flex;
     flex-direction: column;
-    padding: 180px 50px 0;
-    gap: 27px;   
-}
-
-.content-section {
-    font-weight: 400;
+    gap: 27px; 
+    padding: 180px 50px 0;  
 }
 
 .lots_heading {
@@ -240,10 +232,6 @@
     padding: 3px 40px;
 }
 
-.content-section {
-    font-weight: 400;
-}
-
 .about_column {
     display: grid;
     grid-gap: 25px;
@@ -297,10 +285,6 @@
     justify-content: space-between;
     font-size: 18px;
     height: 180px;
-}
-
-.content-section {
-    font-weight: 400;
 }
 
 .footer_address {
